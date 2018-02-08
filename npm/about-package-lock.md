@@ -65,7 +65,6 @@ A@0.1.0
 {
   "name": "A",
   "version": "0.1.0",
-  ...metadata fields...
   "dependencies": {
     "B": {
       "version": "0.0.1",
