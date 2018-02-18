@@ -5,5 +5,8 @@
 
 ## 2) History
 
+### 2018.02.18
+* [NPM Scope](npm-scope.md)
+
 ### 2018.02.08
 * [package-lock.json에 대해서](./about-package-lock.md)
