@@ -44,3 +44,9 @@
 * 나중에 iterm 쪽 테마도 한번 찾아서 적용해보시면 좋을 듯 합니다.
 
 <img src="./theme-images/snazzy.png" alt="ayu" width="400">
+
+### 6) Monokai Pro
+* monokai의 변종으로 보이는데, syntax 컬러가 나쁘지 않습니다.
+* 역시나 reactjs syntax는 완벽하지 않은 느낌입니다. typescript syntax로 지정하여 사용하는 것을 추천합니다.
+
+<img src="./theme-images/monokai-pro.png" alt="monokai-pro" width="400">
