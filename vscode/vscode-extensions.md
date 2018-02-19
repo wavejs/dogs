@@ -5,6 +5,7 @@
 ## Table of Contents
 
 * [Bookmarks](#Bookmarks)
+* [Bracket Pair Colorizer](#BracketPiarColorizer)
 
 ---
 
@@ -37,3 +38,17 @@ https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks
 | | List from All Files | `bookmarks.listFromAllFiles` |
 | | Refresh | `bookmarks.refresh` |
 | | Select Lines (Selection) | `bookmarks.selectLines` |
+
+----
+### BracketPiarColorizer
+
+https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer
+
+#### 기능
+* editor에 모든 bracket들 (괄호, 대괄호 등등 모두 전부요!)에 쌍으로 colorize 시키는 extension입니다.
+* 처음엔 적응하기 힘들지 몰라도 적응하면 가독성이 훨씬 좋아집니다!
+* light theme에는 별도로 색을 다시 정의해야하는 단점이.. 있습니다. (안보입니다 ㅜㅜ)
+
+#### screenshot
+
+<img src="./theme-images/ayu.png" alt="ayu" width="400">
