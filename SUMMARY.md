@@ -18,6 +18,7 @@
 * [package-lock](npm/about-package-lock.md)
 * [npm 설정](npm/npm-config.md)
 * [npm-scope](npm/npm-scope.md)
+* [npm-ci](npm/npm-ci.md)
 
 ### Parcel
 
